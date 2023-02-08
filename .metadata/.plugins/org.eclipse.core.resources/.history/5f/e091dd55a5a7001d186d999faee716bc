@@ -1,0 +1,5 @@
+package com.viniciuscalo.bookstoremanager.controller;
+
+public class BookController {
+
+}
